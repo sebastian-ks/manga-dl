@@ -3,7 +3,7 @@ _____________________________________
 
 ABOUT THIS INSTRUCTION:
 
-- Everything writte in " " is user input and can differ from your execution process
+- Everything written in " " is user input and can differ from your execution process
   depending on how u want to download
 
 - Everything written in ' ' is a specific term that is to be used exactly the same as
