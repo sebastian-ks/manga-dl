@@ -7,6 +7,8 @@ ABOUT THIS INSTRUCTION:
 
 - Everything written in ' ' is a specific term that is to be used exactly the same as it is written in this instruction
 
+- Make sure you've installed the latest version of Google Chrome (other browsers are not supported yet)
+
 - Note that as of now the app only supports 'MANGAZUKI.ME' and 'BATO.TO' 
   When trying to download from any but these sites it will not work!
 
