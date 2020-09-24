@@ -3,14 +3,16 @@ _____________________________________
 
 ABOUT THIS INSTRUCTION:
 
-- Everything writte in " " is user input and can differ from your execution process depending on how u want to download
+- Everything writte in " " is user input and can differ from your execution process
+  depending on how u want to download
 
-- Everything written in ' ' is a specific term that is to be used exactly the same as it is written in this instruction
+- Everything written in ' ' is a specific term that is to be used exactly the same as
+  it is written in this instruction
 
 - Make sure you've installed the latest version of Google Chrome (other browsers are not supported yet)
 
 - Note that as of now the app only supports 'MANGAZUKI.ME' and 'BATO.TO' 
-  When trying to download from any but these sites it will not work!
+  Trying to download from any but these sites will not work!
 
 - WINDOWS ONLY!!!
 
@@ -26,7 +28,8 @@ HOW TO EXECUTE:
 
 - In the Command Prompt type 'manga-dl ' followed by the url of the Manga u want to download
 
-- If u want to give a custom name to the epub then type '-t ' or '--title ' followed by the title u want after the url
+- If u want to give a custom name to the epub then type '-t ' or '--title ' followed
+  by the title u want after the url
 
 - So the general command structure is:
 	
@@ -34,6 +37,9 @@ HOW TO EXECUTE:
 
 - Adding a title to your epub is completely optional. You can simply type: 'manga-dl "url"'
   The title of the epub will then be auto-generated based on data displayed on the actual website
+
+- Note that if you want to set a title containing more than 1 word u should put your title
+  in double quotes (--> "titlep1 titlep2")
 
 - If u get a prompt from your firewall denying access click on 'grant access' to continue (This app is not a virus)
 
@@ -46,7 +52,8 @@ HOW TO EXECUTE:
 ----------------------------------
 - Double click 'manga-dl.exe' inside the folder u downloaded from github
 
-- A Command Prompt will appear asking u for the url of the Manga u want to download as well as for the title of the epub
+- A Command Prompt will appear asking u for the url of the Manga u want to download
+  as well as for the title of the epub
 
 - If u do not want to set a custom title simply type 'na' when asked for a title in the Command Prompt
 
